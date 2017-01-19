@@ -1,2 +1,3 @@
 # hello-world
-primer reporsitorio
+primern reporsitorio
+soy el joven que quiere crear aplicaciones
